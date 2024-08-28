@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-28T12:07:17 EET" name="Default suite" finished-at="2024-08-28T12:07:18 EET" duration-ms="598">
+    <groups>
+    </groups>
+    <test started-at="2024-08-28T12:07:17 EET" name="Default test" finished-at="2024-08-28T12:07:18 EET" duration-ms="598">
+      <class name="firstdatabase.Firstdatabase">
+        <test-method is-config="true" signature="mystub()[pri:0, instance:firstdatabase.Firstdatabase@12468a38]" started-at="2024-08-28T12:07:17 EET" name="mystub" finished-at="2024-08-28T12:07:18 EET" duration-ms="504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mystub -->
+        <test-method signature="databace()[pri:0, instance:firstdatabase.Firstdatabase@12468a38]" started-at="2024-08-28T12:07:18 EET" name="databace" finished-at="2024-08-28T12:07:18 EET" duration-ms="59" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- databace -->
+      </class> <!-- firstdatabase.Firstdatabase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
